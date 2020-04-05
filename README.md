@@ -4,7 +4,7 @@
 * Start the app by running the executable file `fallingrain-to-kml`
 * Add the two letters of the country you want to search (find these on falling rain)
 * Press run
-* The kml files in same folder as the executable in a folder called geodata
+* The kml files are in same folder as the executable in a folder called geodata
 
 ## Development
 * clone the repo
